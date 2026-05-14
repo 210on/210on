@@ -18,7 +18,8 @@ I work across parametric design, digital fabrication, and frontend prototyping.
 
 ## Stack
 
-![Skills](https://skillicons.dev/icons?i=react,ts,vite,html,css,js,openscad,figma,git)
+![Skills](https://skillicons.dev/icons?i=react,ts,vite,html,css,js,figma,git)
+![OpenSCAD](https://img.shields.io/badge/OpenSCAD-F9D72C?style=flat-square&logo=openscad&logoColor=black)
 
 ## Current Focus
 
